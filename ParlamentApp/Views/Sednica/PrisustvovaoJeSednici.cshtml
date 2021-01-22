@@ -1,0 +1,81 @@
+﻿@model ParlamentApp.ViewModel.SednicaViewListingModel2
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Datum pocetka</th>
+            <th>Datum zavrsetka</th>
+            <th>Broj saziva</th>
+            <th>Broj zasedanja</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sednica in Model.Sednice)
+        {
+            <tr>
+                <td>@sednica.DatumPocetka.ToString("dd-MM-yyyy")</td>
+                <td>@sednica.DatumZavrsetka.ToString("dd-MM-yyyy")</td>
+                <td>@sednica.BrojSaziva</td>
+                <td>@sednica.BrojZasedanja</td>
+                <td><input value="@sednica.Id" data-id="@sednica.Id"class="chkBtn" type="checkbox" /></td>
+            </tr>
+        }
+        @foreach (var sednica in Model.Sednice2)
+        {
+            <tr>
+                <td>@sednica.DatumPocetka.ToString("dd-MM-yyyy")</td>
+                <td>@sednica.DatumZavrsetka.ToString("dd-MM-yyyy")</td>
+                <td>@sednica.BrojSaziva</td>
+                <td>@sednica.BrojZasedanja</td>
+                <td><input value="@sednica.Id" data-id="@sednica.Id" class="chkBtn" type="checkbox" checked/></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    $(".chkBtn").change(function () {
+      
+        var sednicaId = $(this).attr("data-id");
+        var idPoslanika = @Model.PoslanikId;
+
+        if ($(this).is(":checked")) {
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("PrisustvovaoJeSednici", "Sednica")',
+                data: {
+                    PoslanikId: idPoslanika,
+                    SednicaId: sednicaId
+                }
+            })
+                .done(function (response) {
+                    if (response.Success) {
+
+                    }
+                })
+                .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert("FAIL");
+                });
+        }
+        else {
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("NijePrisustvovao", "Sednica")',
+                data: {
+                    idPoslanika: idPoslanika,
+                    idSednice: sednicaId
+                }
+            })
+                .done(function (response) {
+                    if (response.Success) {
+
+                    }
+                })
+                .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert("FAIL");
+                });
+        }
+    });
+        
+</script>
+

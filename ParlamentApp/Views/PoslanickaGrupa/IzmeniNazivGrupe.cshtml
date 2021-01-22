@@ -1,0 +1,90 @@
+﻿@model ParlamentApp.ViewModel.PoslanickaGrupaEditViewModel
+
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- left column -->
+            <div class="col-md-12">
+                <!-- Input addon -->
+                <div class="card card-info">
+                    <div class="card-header">
+                        <h3 class="card-title">Izmeni podatke poslanicke grupe</h3>
+                    </div>
+                    <form id="izmeniGrupuForma">
+                        <div class="card-body">
+
+                            <label for="NazivGrupe">Naziv poslanicke grupe</label>
+                            <br />
+                            <div class="input-group mb-3">
+
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-user-tie"></i>
+                                    </span>
+                                </div>
+                                <input type="text" id="NazivGrupe" value="@Model.Grupa.NazivGrupe" name="NazivGrupe" class="form-control" placeholder="Naziv grupe" required>
+                            </div>
+
+                            <a id="sacuvajIzmeneGrupeBtn" class="btn btn-primary">Sačuvaj izmene</a>
+                        </div>
+                        <!-- /.card-body -->
+                    </form>
+                </div>
+                <!-- /.card -->
+            </div>
+            <!--/.col (left) -->
+        </div>
+        <!-- /.row -->
+    </div><!-- /.container-fluid -->
+</section>
+<input value="@Model.Grupa.Id" type="hidden" id="idPoslanickeGrupe"/>
+<script>
+
+    $('#izmeniGrupuForma').validate({
+            rules: {
+            NazivGrupe: {
+                    required: true
+                }
+            },
+            messages: {
+                NazivGrupe: {
+                    required: 'Ovo polje je obavezno!'
+                }
+            }
+        });
+
+    $("#sacuvajIzmeneGrupeBtn").click(function () {
+        if ($("#izmeniGrupuForma").valid()) {
+          
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("IzmeniNazivGrupe", "PoslanickaGrupa")',
+                    data: {
+                        NazivGrupe: $("#NazivGrupe").val(),
+                        IdGrupe: $("#idPoslanickeGrupe").val()
+                    }
+                })
+                    .done(function (response) {
+                        if (response.Success) {
+                            swal("Gotovo", "Poslanicka grupa je uspešno izmenjena.", "success").then((value) => {
+                                window.location = '@Url.Action("Index","Home")';
+                            });
+                        }
+                    })
+                    .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                        alert("FAIL");
+                    });
+            }
+            else {
+                swal({
+                    title: "Upozorenje!",
+                    text: "Popunite sva polja koja su obavezna!",
+                    icon: "warning",
+                    dangerMode: true,
+                });
+            }
+    });
+</script>
+
+

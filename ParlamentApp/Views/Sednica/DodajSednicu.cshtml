@@ -1,0 +1,153 @@
+﻿ <!-- Content Wrapper. Contains page content -->
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Nova sednica</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="@Url.Action("Index","Home")">Home</a></li>
+                    <li class="breadcrumb-item active">Dodaj sednicu</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- left column -->
+            <div class="col-md-12">
+                <!-- Input addon -->
+                <div class="card card-info">
+                    <div class="card-header">
+                        <h3 class="card-title">Podaci o sednici</h3>
+                    </div>
+                    <form id="dodajSednicuForma">
+                        <div class="card-body">
+
+                            <label for="DatumPocetka">Datum pocetka</label>
+                            <br />
+                            <div class="input-group mb-3">
+
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-user-tie"></i>
+                                    </span>
+                                </div>
+                                <input type="date" id="DatumPocetka" name="DatumPocetka" class="form-control" placeholder="Datum pocetka" required>
+                            </div>
+
+                            <label for="DatumZavrsetka">Datum zavrsetka</label>
+                            <br />
+                            <div class="input-group mb-3">
+
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-user-tie"></i>
+                                    </span>
+                                </div>
+                                <input type="date" id="DatumZavrsetka" name="DatumZavrsetka" class="form-control" placeholder="Datum zavrsetka" required>
+                            </div>
+
+                            <label for="BrojSaziva">Broj saziva</label>
+                            <br />
+                            <div class="input-group mb-3">
+
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-digital-tachograph"></i>
+                                    </span>
+                                </div>
+                                <input type="number" id="BrojSaziva" name="BrojSaziva" class="form-control" placeholder="Broj saziva" required>
+                            </div>
+
+                            <label for="BrojZasedanja">Broj zasedanja</label>
+                            <br />
+                            <div class="input-group mb-3">
+
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                    </span>
+                                </div>
+                                <input type="text" id="BrojZasedanja" name="BrojZasedanja" class="form-control" placeholder="Broj zasedanja" required>
+                            </div>
+
+                            <a id="sacuvajSednicuBtn" class="btn btn-primary">Sačuvaj</a>
+                        </div>
+                        <!-- /.card-body -->
+                    </form>
+                </div>
+                <!-- /.card -->
+            </div>
+            <!--/.col (left) -->
+        </div>
+        <!-- /.row -->
+    </div><!-- /.container-fluid -->
+</section>
+
+<script>
+
+    $('#dodajSednicuForma').validate({
+            rules: {
+            DatumPocetka: {
+                    required: true
+                },
+            DatumZavrsetka: {
+                    required: true
+                },
+            BrojZasedanja: {
+                    required: true
+                },
+            BrojSaziva: {
+                    required: true
+                }
+            },
+            messages: {
+                DatumPocetka: {
+                    required: 'Ovo polje je obavezno!'
+                },
+                DatumZavrsetka: {
+                    required: 'Ovo polje je obavezno!'
+                },
+                BrojZasedanja: {
+                    required: 'Ovo polje je obavezno!'
+                },
+                BrojSaziva: {
+                    required: 'Ovo polje je obavezno!'
+                }
+            }
+        });
+
+    $("#sacuvajSednicuBtn").click(function () {
+        if ($("#dodajSednicuForma").valid()) {
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("DodajSednicu", "Sednica")',
+                    data: $("#dodajSednicuForma").serialize()
+                })
+                    .done(function (response) {
+                        if (response.Success) {
+                            swal("Gotovo", "Sednica je uspešno dodata.", "success").then((value) => {
+                                window.location = '@Url.Action("Index","Home")';
+                            });
+                        }
+                    })
+                    .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                        alert("FAIL");
+                    });
+            }
+            else {
+                swal({
+                    title: "Upozorenje!",
+                    text: "Popunite sva polja koja su obavezna!",
+                    icon: "warning",
+                    dangerMode: true,
+                });
+            }
+    });
+</script>

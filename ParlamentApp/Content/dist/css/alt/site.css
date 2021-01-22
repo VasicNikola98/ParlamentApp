@@ -1,0 +1,9 @@
+﻿.hide-spinner{
+    display:none;
+}
+
+.error {
+  color: red;
+  padding: 3px;
+  width: 100%;
+}

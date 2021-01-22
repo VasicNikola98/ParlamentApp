@@ -1,0 +1,62 @@
+﻿@model ParlamentApp.ViewModel.PoslanickaGrupaListingViewModel
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Naziv grupe</th>
+            <th>ID predsednika</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var grupa in Model.Grupe)
+        {
+            <tr>
+                <td>@grupa.NazivGrupe</td>
+                <td>@grupa.IdPredsednika</td>
+             
+                <td><a data-id="@grupa.Id" class="btn btn-sm btn-outline-dark dodajClana">Dodaj clana</a></td>
+                <td><a data-id="@grupa.Id" class="btn btn-sm btn-outline-primary izmeniNaziv">Izmeni Naziv</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div id="grupaContainer"></div>
+
+<script>
+
+    $(".dodajClana").click(function () {
+
+              $.ajax({
+                  url: '@Url.Action("DodajClanaUGrupu", "PoslanickaGrupa")',
+                  data: {
+                      idGrupe: $(this).attr("data-id")
+                  }
+              })
+                  .done(function (response) {
+
+                      $("#grupaContainer").html(response);
+              })
+              .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                  alert("FAIL");
+              });
+        });
+
+     $(".izmeniNaziv").click(function () {
+
+              $.ajax({
+                  url: '@Url.Action("IzmeniNazivGrupe", "PoslanickaGrupa")',
+                  data: {
+                      idGrupe: $(this).attr("data-id")
+                  }
+              })
+                  .done(function (response) {
+
+                      $("#grupaContainer").html(response);
+              })
+              .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                  alert("FAIL");
+              });
+        });
+</script>
+
+

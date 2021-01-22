@@ -1,0 +1,81 @@
+﻿@model ParlamentApp.ViewModel.PoslanickaGrupaViewModel2
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Licno ime</th>
+            <th>Prezime</th>
+            <th>Jmbg</th>
+            <th>Izborna lista</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var poslanik in Model.Poslanici)
+        {
+            <tr>
+                <td>@poslanik.LicnoIme</td>
+                <td>@poslanik.Prezime</td>
+                <td>@poslanik.Jmbg</td>
+                <td>@poslanik.IzbornaLista</td>
+                <td><input value="@poslanik.Id" data-id="@poslanik.Id" class="chkBtn" type="checkbox" /></td>
+            </tr>
+        }
+        @foreach (var poslanik in Model.Poslanici2)
+        {
+            <tr>
+                <td>@poslanik.LicnoIme</td>
+                <td>@poslanik.Prezime</td>
+                <td>@poslanik.Jmbg</td>
+                <td>@poslanik.IzbornaLista</td>
+                <td><input value="@poslanik.Id" data-id="@poslanik.Id" class="chkBtn" type="checkbox" checked /></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    $(".chkBtn").change(function () {
+
+        var poslanikId = $(this).attr("data-id");
+
+        if ($(this).is(":checked")) {
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("DodajClanaUGrupu", "PoslanickaGrupa")',
+                data: {
+                    IdGrupe: @Model.GrupaId,
+                    IdPoslanika: poslanikId
+                }
+            })
+                .done(function (response) {
+                    if (response.Success) {
+
+                    }
+                })
+                .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert("FAIL");
+                });
+        }
+        else {
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("IzbaciClanaIzGrupe", "PoslanickaGrupa")',
+                data: {
+                    IdGrupe: @Model.GrupaId,
+                    IdPoslanika: poslanikId
+                }
+            })
+                .done(function (response) {
+                    if (response.Success) {
+
+                    }
+                })
+                .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert("FAIL");
+                });
+        }
+    });
+
+</script>
+
+

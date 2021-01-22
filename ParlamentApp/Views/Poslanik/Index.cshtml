@@ -1,0 +1,58 @@
+﻿@model ParlamentApp.ViewModel.PoslanikListingViewModel
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Ime</th>
+            <th>Prezime</th>
+            <th>Jmbg</th>
+            <th>Datum rodjenja</th>
+            <th>Mesto rodjenja</th>
+            <th>Adresa stanovanja</th>
+            <th>Mesto stanovanja</th>
+            <th>Email</th>
+            <th>Izborna lista</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var poslanik in Model.Poslanici)
+        {
+            <tr>
+                <td>@poslanik.LicnoIme</td>
+                <td>@poslanik.Prezime</td>
+                <td>@poslanik.Jmbg</td>
+                <td>@poslanik.DatumRodjenja.ToString("dd-MM-yyyy")</td>
+                <td>@poslanik.MestoRodjenja</td>
+                <td>@poslanik.AdresaStanovanja</td>
+                <td>@poslanik.MestoStanovanja</td>
+                <td>@poslanik.Email</td>
+                <td>@poslanik.IzbornaLista</td>
+                <td><a  data-id="@poslanik.Id" class="btn btn-sm btn-outline-dark prisustvovaoJeBtn">Prisustvovao sednici</a></td>
+                <td><input value="@poslanik.Id" type="hidden"/></td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div id="poslanikContainer"></div>
+
+<script>
+
+    $(".prisustvovaoJeBtn").click(function () {
+
+              $.ajax({
+                  url: '@Url.Action("PrisustvovaoJeSednici", "Sednica")',
+                  data: {
+                      idPoslanika: $(this).attr("data-id")
+                  }
+              })
+                  .done(function (response) {
+                  
+                      $("#poslanikContainer").html(response);
+              })
+              .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                  alert("FAIL");
+              });
+        });
+
+</script>
+

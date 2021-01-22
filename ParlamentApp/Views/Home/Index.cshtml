@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="content">
+    <div class="d-flex justify-content-center">
+        <i id="main_loader" style="font-size:40px; margin-top:23%;" class="loading-icon fa fa-spinner fa-spin hide-spinner"></i>
+    </div>
+    <!-- Content Wrapper. Contains page content -->
+    <div class="content-wrapper" id="main_Container">
+        @{Html.RenderAction("Index", "Poslanik");}
+    </div>
+</div>
+

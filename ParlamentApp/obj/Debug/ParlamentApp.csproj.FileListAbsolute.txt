@@ -1,0 +1,366 @@
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\ParlamentApp.dll.config
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\ParlamentApp.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\ParlamentApp.pdb
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\csc.exe
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\csc.exe.config
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\csc.rsp
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\csi.exe
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\csi.exe.config
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\csi.rsp
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.AppContext.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Console.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\vbc.exe
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\vbc.exe.config
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\vbc.rsp
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Antlr3.Runtime.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\EntityFramework.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Newtonsoft.Json.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Owin.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.Helpers.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.Mvc.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.Optimization.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.Razor.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.WebPages.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\WebGrease.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.Helpers.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.Mvc.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.Optimization.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.Razor.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.WebPages.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Newtonsoft.Json.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\EntityFramework.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\obj\Debug\ParlamentApp.csprojAssemblyReference.cache
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\obj\Debug\ParlamentApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\obj\Debug\ParlamentApp.csproj.CopyComplete
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\obj\Debug\ParlamentApp.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\obj\Debug\ParlamentApp.pdb
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Neo4j.Driver.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Neo4jClient.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.ComponentModel.Annotations.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.ValueTuple.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Neo4j.Driver.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\System.ValueTuple.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\ParlamentApp.Entities.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\ParlamentApp.Service.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\ParlamentApp.Entities.pdb
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\ParlamentApp.Entities.dll.config
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\ParlamentApp.Service.pdb
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\ParlamentApp.Service.dll.config
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Neo4j.Driver.Simple.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp\bin\Neo4j.Driver.Simple.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.dll.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.pdb
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csc.exe
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csc.exe.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csc.rsp
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csi.exe
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csi.exe.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csi.rsp
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.AppContext.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Console.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\vbc.exe
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\vbc.exe.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\vbc.rsp
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Antlr3.Runtime.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\EntityFramework.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4j.Driver.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4j.Driver.Simple.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4jClient.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Newtonsoft.Json.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Owin.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Entities.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Service.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.ComponentModel.Annotations.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.ValueTuple.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Helpers.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Mvc.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Optimization.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Razor.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\WebGrease.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Entities.pdb
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Entities.dll.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Service.pdb
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Service.dll.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4j.Driver.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4j.Driver.Simple.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Newtonsoft.Json.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.ValueTuple.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Helpers.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Mvc.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Optimization.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Razor.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Antlr3.Runtime.pdb
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\EntityFramework.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.csprojAssemblyReference.cache
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.csproj.CoreCompileInputs.cache
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.csproj.CopyComplete
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.pdb
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.dll.config
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.pdb
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csc.exe
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csc.exe.config
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csc.rsp
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csi.exe
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csi.exe.config
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\csi.rsp
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.AppContext.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Console.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\vbc.exe
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\vbc.exe.config
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\vbc.rsp
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Antlr3.Runtime.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\EntityFramework.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4j.Driver.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4j.Driver.Simple.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4jClient.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Newtonsoft.Json.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Owin.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Entities.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Service.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.ComponentModel.Annotations.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.ValueTuple.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Helpers.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Mvc.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Optimization.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Razor.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\WebGrease.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Entities.pdb
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Entities.dll.config
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Service.pdb
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\ParlamentApp.Service.dll.config
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4j.Driver.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Neo4j.Driver.Simple.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Newtonsoft.Json.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.ValueTuple.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Helpers.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Mvc.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Optimization.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.Razor.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\EntityFramework.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.csprojAssemblyReference.cache
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.csproj.CopyComplete
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp\obj\Debug\ParlamentApp.pdb

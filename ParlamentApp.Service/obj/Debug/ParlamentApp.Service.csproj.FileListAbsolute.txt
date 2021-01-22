@@ -1,0 +1,63 @@
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\ParlamentApp.Service.dll.config
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\ParlamentApp.Service.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\ParlamentApp.Service.pdb
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\Neo4j.Driver.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\Neo4jClient.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\System.ValueTuple.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\Neo4j.Driver.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\System.ValueTuple.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.csprojAssemblyReference.cache
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.csproj.CopyComplete
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.pdb
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\Neo4j.Driver.Simple.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\Neo4j.Driver.Simple.xml
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\ParlamentApp.Entities.dll
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\ParlamentApp.Entities.pdb
+C:\Users\Nikola Vasic\source\repos\ParlamentApp\ParlamentApp.Service\bin\Debug\ParlamentApp.Entities.dll.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Service.dll.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Service.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Service.pdb
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4j.Driver.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4j.Driver.Simple.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4jClient.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Entities.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\System.ValueTuple.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Entities.pdb
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Entities.dll.config
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4j.Driver.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4j.Driver.Simple.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\System.ValueTuple.xml
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.csprojAssemblyReference.cache
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.csproj.CopyComplete
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.dll
+C:\Users\Uros\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.pdb
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Service.dll.config
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Service.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Service.pdb
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4j.Driver.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4j.Driver.Simple.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4jClient.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Entities.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\System.ValueTuple.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Entities.pdb
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\ParlamentApp.Entities.dll.config
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4j.Driver.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Neo4j.Driver.Simple.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\bin\Debug\System.ValueTuple.xml
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.csprojAssemblyReference.cache
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.csproj.CopyComplete
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.dll
+C:\Users\Nikola Vasic\Desktop\NarodnaSkupstina-master\ParlamentApp.Service\obj\Debug\ParlamentApp.Service.pdb
